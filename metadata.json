@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Explorer",
+  "description": "An interactive, animated visualization of the solar system with AI-powered planetary insights.",
+  "requestFramePermissions": []
+}
